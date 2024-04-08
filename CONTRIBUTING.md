@@ -23,6 +23,7 @@ We warmly welcome contributions to DuoCode! Here's how you can be a part of this
 
 - Discuss First: Before significant changes, open an issue to discuss with the maintainers.
 - Clear Branch Name: Use a descriptive branch name (e.g., fix-login-bug, add-chat-feature).
+- Focused Commits: Keep commits atomic (addressing one specific change) with clear messages.
 - Test Thoroughly: Ensure your changes don't break existing functionality and add tests for new features.
 - Follow Style Guide: Match the existing code style (we'll be choosing one soon!).
 
